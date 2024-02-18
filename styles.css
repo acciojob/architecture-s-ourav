@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color: lightblue;
+}
+
+table{
+	width:100%;
+	border:1px solid black;
+}
+td{
+	border:1px solid black;
+}
